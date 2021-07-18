@@ -26,5 +26,5 @@ int main()
     double t;
     scanf("%lf",&t);
     double speed=d/t;
-    printf("Speed is %0.2lf(Km/Hr)\n",speed);
+    printf("Speed is % 0.2lf(Km/Hr)\n",speed);
 }
